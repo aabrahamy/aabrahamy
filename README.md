@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ani!
 
-<!--
-**aabrahamy/aabrahamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering @ Purdue University  
+💻 Currently learning Java, C, and Data Structures
+🔧 Interested in hardware/software integration, PC building, and embedded systems
+🖥️ Currently working on: PC Part Recommender (Java)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- First-year engineering student passionate about building and understanding real systems  
+- Hands-on experience assembling PCs and learning how hardware/software interact  
+- Aspiring to explore roles in software engineering, early-career tech programs, and computer hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+**Languages:** Java, C, Python  
+**Tools:** IntelliJ, VS Code, Git/GitHub 
+**Interests:** PC hardware, microcontrollers, system design
+
+---
+
+## 📌 Projects
+- **PC Part Recommender (Java):** A system that suggests PC components based on a user's budget and use-case using OOP and component-selection logic. Currently in progress.
+- More projects coming soon as I expand my skills!
+
+---
+
+## 🌱 Currently Learning
+- Core programming fundamentals in Java
+- Object-Oriented Programming (classes, objects, methods)
+- Data structures (arrays, lists, maps)
+- Clean code and practice
+  
+---
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/aabrahamy/)
