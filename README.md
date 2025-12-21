@@ -8,7 +8,7 @@
 ## About Me
 - First-year engineering student passionate about building and understanding real systems  
 - Hands-on experience assembling PCs and learning how hardware/software interact  
-- Aspiring to explore roles in software engineering, early-career tech programs, and computer hardware.
+- Exploring roles in software engineering, computer hardware, and early-career tech programs
 
 ---
 
