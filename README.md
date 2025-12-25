@@ -1,6 +1,4 @@
-# Hi, I'm Ani! ⠀
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀:¨ ·.· ¨:
-⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ `· . 𐙚
+# Hi, I'm Ani! ⠀₊✩‧₊˚౨ৎ˚₊✩‧₊
 
 I'm a freshman **Computer Engineering** student at **Purdue University** with interests in  
 hardware/software integration, machine learning, PC building, and embedded systems.
