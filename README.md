@@ -16,12 +16,16 @@ Currently, I’m exploring roles in **software engineering**, **computer hardwar
 - Python
 - JavaScript
 
+---
+
 ### Tools
 - IntelliJ IDEA
 - VS Code
 - Git & GitHub
 - Electron
 - Figma
+
+---
 
 ### Interests
 - PC hardware
