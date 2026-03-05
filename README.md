@@ -7,7 +7,7 @@ I’m exploring roles in software engineering, computer hardware engineering, an
 
 ---
 
-I was previously a Software Engineer Intern at Canary Labs, and am an incoming Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026.
+I was previously a Software Engineer Intern at Canary Labs, and am an incoming Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026!
 
 ---
 
@@ -40,4 +40,4 @@ I was previously a Software Engineer Intern at Canary Labs, and am an incoming E
 
 ---
 
-## 🔗 Connect With Me! [LinkedIn](https://www.linkedin.com/)
+## 🔗 Connect With Me! [LinkedIn](https://www.linkedin.com/aabrahamy/)
