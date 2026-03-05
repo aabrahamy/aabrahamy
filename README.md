@@ -40,4 +40,4 @@ I was previously a Software Engineer Intern at Canary Labs, and am an incoming E
 
 ---
 
-## 🔗 Connect With Me! [LinkedIn](https://www.linkedin.com/aabrahamy/)
+## 🔗 Connect With Me! [LinkedIn](https://www.linkedin.com/in/aabrahamy/)
