@@ -3,41 +3,11 @@
 I'm a freshman Computer Engineering student at Purdue University with interests in the intersection of hardware/software, embedded systems, and semiconductors.
 
 I have hands-on experience assembling PCs and enjoy learning how hardware and software interact at a low level.  
-I’m exploring roles in software engineering, computer hardware engineering, and early-career tech programs.
 
 ---
 
-I was previously a Software Engineer Intern at Canary Labs, and am an incoming Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026!
+I was previously a Software Engineer Intern at Canary Labs, and am incoming Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026, on the Supply Chain - Demand Planning IT team.
 
 ---
 
-## 🛠 Technologies & Tools
-
-### Languages
-- C
-- C#
-- Java
-- Python
-
----
-
-### Tools
-- IntelliJ IDEA
-- VS Code
-- Git Version Control
-- Node.js
-- MongoDB
-- Figma
-
----
-
-### Interests
-- Software that supports and interfaces with hardware systems
-- Computer Hardware
-- Microelectronics and Semiconductors
-- System design
-- AI / ML
-
----
-
-## 🔗 Connect With Me! [LinkedIn](https://www.linkedin.com/in/aabrahamy/)
+## 🔗 [LinkedIn](https://www.linkedin.com/in/aabrahamy/)
