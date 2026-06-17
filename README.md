@@ -1,8 +1,6 @@
 # Hi, I'm Ani! ˚౨ৎ
 
-I'm a freshman Computer Engineering student at Purdue University with interests in the intersection of hardware/software, embedded systems, and semiconductors.
-
-I have hands-on experience assembling PCs and enjoy learning how hardware and software interact at a low level.  
+I'm a rising sophomore in Computer Engineering at Purdue University, passionate about the intersection of hardware and software, specifically in embedded systems and and semiconductors.
 
 ---
 
