@@ -4,7 +4,7 @@ I'm a rising sophomore in Computer Engineering at Purdue University, passionate 
 
 ---
 
-I was previously a Software Engineer Intern at Canary Labs, and am incoming Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026, on the Supply Chain - Demand Planning IT team.
+I was previously a Software Engineer Intern at Canary Labs, and am an Electronic Systems Co-Op at Cummins Inc. for Summer and Fall 2026, on the Supply Chain - Demand Planning IT team.
 
 ---
 
