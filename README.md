@@ -1,5 +1,7 @@
 # Hi, I'm Ani! ˚౨ৎ
 
+---
+
 I'm a rising sophomore in Computer Engineering at Purdue University, passionate about the intersection of hardware and software.
 
 ---
