@@ -1,15 +1,15 @@
-### Hi! I'm Ani :)
-
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│          ●──────┐      ┌──────────┐      ┌──────●            |
-│                 └──────┤   ANI    ├──────┘                   │
-│                        └──────────┘                          |
+│          ●──────┐      ┌──────────────┐      ┌──────●        |
+│                 └──────┤ Hi, i'm Ani! ├──────┘               │
+│                        └──────────────┘                      |
 │          ●──────────────┐      ┌──────────────●              │
 │                         └──────┘                             │
 │                                                              │
 │          Computer Engineering @ Purdue University            │
 └──────────────────────────────────────────────────────────────┘
+```
 
 ```c
 #include <stdio.h>
@@ -31,3 +31,21 @@ int main() {
     return 0;
 }
 ```
+```text
+The English Version :]
+
+Ani Abrahamyan - Computer Engineering @ Purdue
+
+Interested in:
+Computer Architecture · Digital Design · Semiconductors
+
+Currently:
+- Solution Engineering Co-Op @ Cummins
+- SoCET @ Purdue
+
+Outside engineering:
+Photography · Gaming · Matcha
+```
+
+- 🔗 [LinkedIn](https://linkedin.com/in/aabrahamy)
+- 📷 [Photography Portfolio](https://annvyi.framer.website/)
