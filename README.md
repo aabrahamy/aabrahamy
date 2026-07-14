@@ -1,15 +1,24 @@
+```c
+#include <stdio.h>
+
 typedef struct {
+    char *name;
+    char *school;
+    char *major;
+    char *year;
+    int age;
+} Student;
 
-  char * name = "Ani Abrahamyan";
-  
-  char * school = "Purdue University";
-  
-  char * major = "Computer Engineering";
-  
-  int * age = "18";
-  
-} about_me;
+int main() {
+    Student me = {
+        "Ani Abrahamyan",
+        "Purdue University",
+        "Computer Engineering",
+        "Sophomore",
+        18
+    };
 
----
-
-## 🔗 [LinkedIn](https://www.linkedin.com/in/aabrahamy/)
+    printf("Welcome to my GitHub!\n");
+    return 0;
+}
+```
