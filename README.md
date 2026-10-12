@@ -1,18 +1,4 @@
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│          ●──────┐      ┌──────────────┐      ┌──────●        |
-│                 └──────┤ Hi, i'm Ani! ├──────┘               │
-│                        └──────────────┘                      |
-│          ●──────────────┐      ┌──────────────●              │
-│                         └──────┘                             │
-│                                                              │
-│          Computer Engineering @ Purdue University            │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm a sophomore studying Computer Engineering at Purdue (minors in Math and Philosophy), interested in digital design and verification, and currently building a single-cycle RISC-V CPU and a systolic array in SystemVerilog.
+Hi, I'm Ani, a sophomore studying Computer Engineering at Purdue (minors in Math and Philosophy), interested in digital design and verification, and currently building a single-cycle RISC-V CPU and a systolic array in SystemVerilog.
 
 Check out my hardware portfolio and my photography below!
 
