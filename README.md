@@ -12,27 +12,11 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-```c
-#include <stdio.h>
+I'm a sophomore studying Computer Engineering at Purdue (minors in Math and Philosophy), interested in digital design and verification, and currently building a single-cycle RISC-V CPU and a systolic array in SystemVerilog.
 
-typedef struct {
-    char *name;
-    char *year;
-    char *interests;
-} Student;
+Check out my hardware portfolio and my photography below!
 
-int main() {
-    Student me = {
-        "Ani Abrahamyan",
-        "Sophomore",
-        "Semiconductors, Digital Design, Computer Architecture"
-    };
-
-    printf("Welcome to my GitHub!\n");
-    return 0;
-}
-```
-\> [Portfolio Website](https://aabrahamy.github.io/)
+\> [Hardware Portfolio](https://aabrahamy.github.io/)
 
 \> [LinkedIn](https://linkedin.com/in/aabrahamy)
 
